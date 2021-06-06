@@ -29,12 +29,15 @@ header h1 {
   margin: 15px auto 40px;
 }
 
-figure img{
+.image-question{
     height: 300px;
     display: block;
     margin: 0 auto 30px;
-
     
+}
+.image-graph{
+    display: block;
+    margin: 0 auto 30px;
 }
 main table {
   margin: 0 auto;
@@ -64,4 +67,8 @@ article header {
   margin-right: 30px;
   margin-bottom: 10px;
   font-size: 14px;
+}
+
+main{
+    padding-bottom: 60px;
 }
